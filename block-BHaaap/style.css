@@ -61,21 +61,36 @@ img{
     border-radius: 5px;
 
 }
-p{
-    background-color: cyan;
-    border:10px black dotted;
-	width: 600px;
-	height: 400px;
-}
-.round{
-    background-color:red ;
-width: 300px;
-height: 300px;
-border-radius: 50%;
-}
-footer{
-	border: 2px;
-	background-color: cornflowerblue;
-	padding: 20px;
+
+.heading{
+	border: 1px solid aquamarine;
+	
+	font-size: 36px;
+	padding: 16px;
 	text-align: center;
 }
+.paragraph{
+	width: 600px;
+	height: 400px;
+	border: 2px dotted black;
+	background-color: #D1D631;
+	padding: 24px;
+
+
+}
+.circle{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background-color: burlywood;
+}
+footer{
+	border-bottom: 3px darkcyan;
+	text-decoration: none;
+	background-color: darksalmon;
+	padding: 16px;
+	font-size: 20px;
+	d
+
+}
+
