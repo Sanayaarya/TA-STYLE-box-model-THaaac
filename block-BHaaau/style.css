@@ -1,0 +1,22 @@
+.box{
+    
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border:2px solid black;
+    padding: 20px;
+ 
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+.first{
+    
+}
